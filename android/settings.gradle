@@ -1,0 +1,3 @@
+rootProject.name = 'nextdoor_2547'
+
+include ':app'
